@@ -1,0 +1,32 @@
+﻿  jordanElman.cpp
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(72): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(74): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(89): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(94): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(118): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(138): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(251): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(257): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(259): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(404): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(584): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(589): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(591): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(595): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(613): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(618): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(653): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(655): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(659): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(677): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(682): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(684): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(703): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(719): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(725): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(727): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(747): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+  Создание кода...
+  Jordan_Elman_model.vcxproj -> C:\Users\NotePad\Desktop\sem 5\MRZVIS\laba 2\Jordan_Elman_model\Debug\Jordan_Elman_model.exe

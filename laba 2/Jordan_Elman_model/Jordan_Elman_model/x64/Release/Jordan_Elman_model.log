@@ -1,0 +1,12 @@
+﻿  jordanElman.cpp
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(117): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(137): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(684): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\notepad\desktop\sem 5\mrzvis\laba 2\jordan_elman_model\jordan_elman_model\jordanelman.cpp(728): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+  Создание кода
+  1 of 272 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Jordan_Elman_model.vcxproj -> C:\Users\NotePad\Desktop\sem 5\MRZVIS\laba 2\Jordan_Elman_model\x64\Release\Jordan_Elman_model.exe

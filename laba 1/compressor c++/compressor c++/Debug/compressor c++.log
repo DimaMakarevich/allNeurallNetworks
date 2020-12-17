@@ -1,0 +1,34 @@
+﻿  ImageCompressor.cpp
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(54): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(71): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(76): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(78): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(110): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(115): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(117): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(121): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(144): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(158): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(164): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(166): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(183): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(220): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(228): warning C4244: инициализация: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(255): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(257): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(292): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(294): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(298): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(325): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(336): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(355): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(383): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(426): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(431): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(433): warning C4018: <: несоответствие типов со знаком и без знака
+  compressor c++.vcxproj -> C:\Users\NotePad\Desktop\sem 5\MRZVIS\laba 1\compressor c++\Debug\compressor c++.exe

@@ -1,0 +1,9 @@
+﻿  ImageCompressor.cpp
+c:\users\notepad\desktop\sem 5\mrzvis\laba 1\compressor c++\compressor c++\imagecompressor.cpp(418): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.cpp
+  Создание кода
+  1 of 1265 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  compressor c++.vcxproj -> C:\Users\NotePad\Desktop\sem 5\MRZVIS\laba 1\compressor c++\x64\Release\compressor c++.exe
